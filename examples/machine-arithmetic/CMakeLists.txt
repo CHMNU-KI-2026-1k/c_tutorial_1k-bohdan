@@ -1,4 +1,4 @@
-project("ex01")
+project("machine-arithmetic")
 
 include_directories(include)
 
