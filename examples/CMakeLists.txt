@@ -1,5 +1,0 @@
-add_subdirectory("basic-operations")
-add_subdirectory("conditions")
-add_subdirectory("circle-intersection")
-add_subdirectory("machine-arithmetic")
-add_subdirectory("triangle-type")
